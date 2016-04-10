@@ -1,6 +1,6 @@
 # OX Board
 
-[Æ½ÅØÅä(TicTacTeo)](https://ko.wikipedia.org/wiki/%ED%8B%B1%ED%83%9D%ED%86%A0) & [¿À¸ñ(Five-Mok)](https://ko.wikipedia.org/wiki/%EC%98%A4%EB%AA%A9)
+[í‹±í…í†¡(TicTacTeo)](https://ko.wikipedia.org/wiki/%ED%8B%B1%ED%83%9D%ED%86%A0) & [ì˜¤ëª©(Five-Mok)](https://ko.wikipedia.org/wiki/%EC%98%A4%EB%AA%A9)
 
 ## Getting Started
 
